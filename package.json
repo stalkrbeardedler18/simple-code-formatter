@@ -1,0 +1,15 @@
+{
+  "name": "simple-code-formatter",
+  "version": "1.0.0",
+  "description": "A lightweight code formatter that enhances code readability by enforcing simplicity and uniformity across popular programming languages.",
+  "main": "src/formatter.js",
+  "bin": {
+    "simple-code-formatter": "src/formatter.js"
+  },
+  "scripts": {
+    "format": "node src/formatter.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "MIT"
+}
