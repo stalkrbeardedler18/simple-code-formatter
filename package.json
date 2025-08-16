@@ -12,5 +12,10 @@
   "dependencies": {},
   "devDependencies": {},
   "license": "MIT",
-  "keywords": ["formatter", "code", "beautifier", "readability"]
+  "keywords": ["formatter", "code", "beautifier", "readability"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/simple-code-formatter.git"
+  },
+  "author": "Your Name"
 }
