@@ -7,10 +7,13 @@
     "simple-code-formatter": "src/formatter.js"
   },
   "scripts": {
-    "format": "node src/formatter.js"
+    "format": "node src/formatter.js",
+    "lint": "eslint ."
   },
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint": "^8.24.0"
+  },
   "license": "MIT",
   "keywords": ["formatter", "code", "beautifier", "readability"],
   "repository": {
