@@ -11,5 +11,6 @@
   },
   "dependencies": {},
   "devDependencies": {},
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": ["formatter", "code", "beautifier", "readability"]
 }
